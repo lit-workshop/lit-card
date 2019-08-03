@@ -69,6 +69,7 @@ class LitCard extends LitElement {
         min-height: 25px;
         min-width: 50px;
         margin: 0px 5px;
+        border-radius: 4px;
       }
     `;
   }
